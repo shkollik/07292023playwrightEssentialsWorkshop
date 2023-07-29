@@ -1,0 +1,14 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Vlad Shkola <shkolik92@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "1.36.2"
+  }
+}
